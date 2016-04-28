@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumcompo01horagoog_0008.png"; bbox 0 0 2956 4838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 1091 1403 1324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 217 1091 1403 1324">
+     <span class='ocr_line' id='line_1_1' title="bbox 217 1091 1403 1324; baseline -0.007 -44"><span class='ocrx_word' id='word_1_1' title='bbox 217 1173 557 1289; x_wconf 74' lang='lat' dir='ltr'><strong>FAUTORI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 599 1175 768 1278; x_wconf 81' lang='lat' dir='ltr'><strong>MEO</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 809 1091 1189 1281; x_wconf 67' lang='lat' dir='ltr'><strong>BENIGNO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1359 1269 1403 1324; x_wconf 94' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 392 1530 1160 1657">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 392 1530 1160 1657">
+     <span class='ocr_line' id='line_1_2' title="bbox 392 1530 1160 1657; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 392 1531 528 1656; x_wconf 90' lang='lat' dir='ltr'><strong>VON</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 566 1530 704 1657; x_wconf 87' lang='lat' dir='ltr'><strong>DER</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 740 1530 1010 1657; x_wconf 89' lang='lat' dir='ltr'>KLEYEN</span> <span class='ocrx_word' id='word_1_8' title='bbox 1157 1648 1160 1654; x_wconf 83' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 157 1869 1241 1964">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 157 1869 1241 1964">
+     <span class='ocr_line' id='line_1_3' title="bbox 157 1869 1241 1964; baseline 0 -20"><span class='ocrx_word' id='word_1_9' title='bbox 157 1877 257 1945; x_wconf 75' lang='lat' dir='ltr'><strong>HAS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 285 1876 559 1947; x_wconf 79' lang='lat' dir='ltr'>STUDIORUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 587 1877 837 1945; x_wconf 78' lang='lat' dir='ltr'><strong>PRIMITIAS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 865 1869 1241 1964; x_wconf 78' lang='lat' dir='ltr'><strong>QUALESOUNQUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1482 4838">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1482 4838">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1482 4838; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1482 4838; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

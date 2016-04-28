@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deverborumcompo01horagoog_0003.png"; bbox 0 0 910 1329; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 342 392 577 626">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 342 392 577 626">
+     <span class='ocr_line' id='line_1_1' title="bbox 342 392 577 626; baseline 0 703"><span class='ocrx_word' id='word_1_1' title='bbox 342 392 577 626; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 297 653 620 765">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 297 653 620 765">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 653 592 679; baseline -0.004 -5"><span class='ocrx_word' id='word_1_2' title='bbox 324 653 411 676; x_wconf 61' lang='lat' dir='ltr'>aearbatu</span> <span class='ocrx_word' id='word_1_3' title='bbox 425 653 500 678; x_wconf 54' lang='lat' dir='ltr'>&amp;tonent</span> <span class='ocrx_word' id='word_1_4' title='bbox 512 653 592 679; x_wconf 52' lang='lat' dir='ltr'>librata</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 402 708 516 719; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 402 709 437 719; x_wconf 76' lang='lat' dir='ltr'>&#39;tl-113</span> <span class='ocrx_word' id='word_1_6' title='bbox 446 708 486 719; x_wconf 70' lang='lat' dir='ltr'>GH&#39;T</span> <span class='ocrx_word' id='word_1_7' title='bbox 495 709 516 719; x_wconf 76' lang='lat'>01¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 297 746 620 765; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 297 747 428 762; x_wconf 81' lang='lat' dir='ltr'><strong>STEPHEN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 450 746 620 765; x_wconf 76' lang='lat' dir='ltr'><strong>SALISBURY,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 793 573 808">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 793 573 808">
+     <span class='ocr_line' id='line_1_5' title="bbox 342 793 573 808; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 342 794 368 806; x_wconf 77' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_11' title='bbox 379 793 505 808; x_wconf 79' lang='lat' dir='ltr'>WORCESTER,</span> <span class='ocrx_word' id='word_1_12' title='bbox 517 793 573 806; x_wconf 76' lang='lat' dir='ltr'>MASS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 401 835 517 845">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 401 835 517 845">
+     <span class='ocr_line' id='line_1_6' title="bbox 401 835 517 845; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 401 835 445 845; x_wconf 72' lang='lat' dir='ltr'>mn...</span> <span class='ocrx_word' id='word_1_14' title='bbox 450 835 467 844; x_wconf 71' lang='grc' dir='ltr'>-ι</span> <span class='ocrx_word' id='word_1_15' title='bbox 472 835 517 845; x_wconf 63' lang='lat' dir='ltr'>nrm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 377 863 541 893">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 377 863 541 893">
+     <span class='ocr_line' id='line_1_7' title="bbox 377 863 541 893; baseline 0 -10"><span class='ocrx_word' id='word_1_16' title='bbox 377 872 391 891; x_wconf 61' lang='grc' dir='ltr'><em>ἵ</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 402 863 541 893; x_wconf 55' lang='lat' dir='ltr'>fite-slqa-r.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
